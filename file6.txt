@@ -1,0 +1,2 @@
+modified file6 in master
+modified file6 in branch3
